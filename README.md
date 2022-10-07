@@ -7,6 +7,9 @@
 | Plato | https://github.com/baskerville/plato |
 | Kfmon | https://github.com/NiLuJe/kfmon |
 
+
+![kobo](https://raw.githubusercontent.com/id1945/KOReader-Plato/master/kobo.png)
+
 <div id="post_message_3797095" class="vb_postbit">
 			
 You'll find here links to so called <b>"one-click"</b> install packages for both <a href="https://github.com/koreader/koreader">KOReader</a> &amp; <a href="https://github.com/baskerville/plato">Plato</a>.<br>
